@@ -1,1 +1,9 @@
-# php
+# PHP
+## Manuales
+  1. https://www.php.net/manual/es/
+  2. https://www.php.net/distributions/manual/php_enhanced_es.chm
+  3. https://dev.mysql.com/doc/refman/8.0/en/
+## Videos
+  1. https://www.youtube.com/watch?v=-b4lN7o-UKs&list=PLpOqH6AE0tNiU09SztxZXz1zuoyvqeLMH
+  2. https://www.youtube.com/watch?v=c4P__KoPZwo
+  3. https://www.youtube.com/watch?v=9ylj9NR0Lcg&t=243s
